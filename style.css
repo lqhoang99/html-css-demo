@@ -89,3 +89,13 @@ body{
     width: 100%;
      
 }
+.about{
+    height: 300px;
+    margin-top: 30px;
+}
+.hotproduct{
+    float: left;
+    padding-top: 15px;
+    padding-right: 40px;
+
+}
