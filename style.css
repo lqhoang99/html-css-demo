@@ -64,7 +64,7 @@ body{
     color: black;
 }
 #left ul li a:hover{
-    color:blue
+    color:gray;
 }
 #iconsearch{
     background-image: url("image/search.png");
@@ -120,4 +120,54 @@ body{
 .product{
     margin-top: 50px;
     margin-left: 40px;
+    
+}
+.more{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+}
+.more a:hover{
+    color:gray;
+}
+.bieutuong{
+    padding-top: 5rem;
+    text-align: center;
+}
+.bieutuong a p{
+    font-size: 9px;
+}
+.footertag a{
+    text-decoration: none;
+    color: white;
+}
+.footer_nav ul{
+    padding-top: 1rem;
+    list-style-type:none;
+    display: flex;
+    justify-content: space-around;
+}
+.footer_nav ul li{
+    padding-left: 5px;
+}
+.social_media a{
+    text-decoration: none;
+    color: white;
+}
+.social_media ul{
+    list-style-type:none;
+    display: flex;
+    justify-content: center;
+}
+.social_media ul{
+    padding: 0;
+}
+.social_media ul li{
+    padding: 1rem;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
 }
