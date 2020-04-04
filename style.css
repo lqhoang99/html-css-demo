@@ -92,10 +92,32 @@ body{
 .about{
     height: 300px;
     margin-top: 30px;
+    margin-left: 40px;
 }
 .hotproduct{
     float: left;
     padding-top: 15px;
     padding-right: 40px;
 
+}
+.ngan
+{
+    margin-top: 50px;
+    border-bottom: 1px solid #000;
+    text-align: center;
+}
+.productimage img{
+    height: 250px;
+    object-fit: scale-down;
+}
+.product1{
+    text-align: center;
+    border: solid 1px #d8d8d8;
+    float:left;    
+    margin-right: 40px;
+    margin-left: 0.5px;
+}
+.product{
+    margin-top: 50px;
+    margin-left: 40px;
 }
